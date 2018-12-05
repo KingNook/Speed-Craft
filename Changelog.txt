@@ -1,0 +1,6 @@
+ ---- Changelog ----
+ -- 1.1 --
+ I have been messing around with the loot tables. May have broken something... IDK and IDC :)
+ -- 1.2 --
+ Posted the modpack on the Curseforge website!
+ 
