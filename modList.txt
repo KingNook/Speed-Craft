@@ -1,0 +1,99 @@
+ ---- Mod List ----
+ Actually Additions
+ Actually Baubles
+ Advanced Generators
+ Akashic Tome
+ Angel ring to Bauble
+ Applied Energistics 2
+ Aroma1997Core
+ Aroma1997s Dimensional World
+ AutoRegLib
+ Avaritia 1.1x
+ B.A.S.E
+ Baubles
+ BdLib
+ Bed Patch
+ Better Builder's Wands
+ Better Questing
+ Better Questing - Standard Expansion
+ BiblioCraft
+ Biomes O'Plenty
+ (Bonsai Tree Crops)
+ Bookshelf
+ Brandon's Core
+ Ceramics
+ Chance Cubes
+ Chest Transporter
+ Chisel
+ Clumps
+ CodeChicken Core 1.8 +
+ CodeChicken Lib 1.8 +
+ CoFH Core
+ Colossal Chests
+ CompatLayer
+ ConnectedTexturesMod
+ CraftTweaker
+ CXLibrary
+ Cyclic
+ Cyclops Core
+ Dark Utilities
+ Default Options
+ Draconic Evolution
+ (Ex Compressum)
+ Ex Nihilo Omnia
+ Extra Utilites 2
+ Extreme Reactors
+ Fast Leaf Decay
+ FTBLib
+ Gravestone Mod
+ Hwyla
+ Initial Inventory
+ Inventory Sorter
+ Inventory Spam
+ Inventory Tweaks
+ Iron Backpacks
+ Iron Chests
+ JEI Integration
+ JourneyMap
+ Just Enough Items (JEI)
+ Just Enough Resources (JER)
+ LootBags
+ (LootTableTweaker)
+ (LootTweaker)
+ Mantle
+ MCMultiPart
+ Minefactory Reloaded
+ Moar Tinkers
+ Mob Grinding Utils
+ (Modular Powersuits)
+ More Furnaces
+ Mouse Tweaks
+ MTLib
+ Mystical Aggraditions
+ Mystical Agriculture
+ Neat
+ Ore Excavation
+ p455w0rd's Library
+ p455w0rd's Things
+ Pam's HarvestCraft
+ (PlusTiC)
+ Refined Storage
+ Roguelike Dungeons
+ SimpleHarvest
+ Simply Jetpacks 2
+ Snad
+ Thermal Dynamics
+ Thermal Expansion
+ Thermal Foundation
+ Tinkers' Construct
+ Tinkers' Tool Levelling
+ Tiny Progressions
+ Translocators 1.8 +
+ Twerk Sim 2k16
+ (Veinminer)
+ (Veinminer Mod Integration)
+ Waila Harvestability
+ Wawla - What Are We Looking At
+ YABBA
+ ZeroCore
+ 
